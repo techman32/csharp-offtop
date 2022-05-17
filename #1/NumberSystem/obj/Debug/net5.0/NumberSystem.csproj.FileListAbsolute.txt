@@ -1,0 +1,16 @@
+C:\Users\Alexander\Desktop\TravelLine\NumberSystem\NumberSystem\obj\Debug\net5.0\NumberSystem.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\TravelLine\NumberSystem\NumberSystem\obj\Debug\net5.0\NumberSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\TravelLine\NumberSystem\NumberSystem\obj\Debug\net5.0\NumberSystem.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\TravelLine\NumberSystem\NumberSystem\obj\Debug\net5.0\NumberSystem.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\TravelLine\NumberSystem\NumberSystem\obj\Debug\net5.0\NumberSystem.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\TravelLine\NumberSystem\NumberSystem\bin\Debug\net5.0\NumberSystem.exe
+C:\Users\Alexander\Desktop\TravelLine\NumberSystem\NumberSystem\bin\Debug\net5.0\NumberSystem.deps.json
+C:\Users\Alexander\Desktop\TravelLine\NumberSystem\NumberSystem\bin\Debug\net5.0\NumberSystem.runtimeconfig.json
+C:\Users\Alexander\Desktop\TravelLine\NumberSystem\NumberSystem\bin\Debug\net5.0\NumberSystem.runtimeconfig.dev.json
+C:\Users\Alexander\Desktop\TravelLine\NumberSystem\NumberSystem\bin\Debug\net5.0\NumberSystem.dll
+C:\Users\Alexander\Desktop\TravelLine\NumberSystem\NumberSystem\bin\Debug\net5.0\NumberSystem.pdb
+C:\Users\Alexander\Desktop\TravelLine\NumberSystem\NumberSystem\obj\Debug\net5.0\NumberSystem.dll
+C:\Users\Alexander\Desktop\TravelLine\NumberSystem\NumberSystem\obj\Debug\net5.0\refint\NumberSystem.dll
+C:\Users\Alexander\Desktop\TravelLine\NumberSystem\NumberSystem\obj\Debug\net5.0\NumberSystem.pdb
+C:\Users\Alexander\Desktop\TravelLine\NumberSystem\NumberSystem\obj\Debug\net5.0\NumberSystem.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\TravelLine\NumberSystem\NumberSystem\obj\Debug\net5.0\ref\NumberSystem.dll
